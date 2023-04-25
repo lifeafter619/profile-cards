@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/gotham/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
@@ -49,16 +39,6 @@
 
 ```
 ![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/gotham/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/gotham/4-productive-time.svg)
 ```
 
     
